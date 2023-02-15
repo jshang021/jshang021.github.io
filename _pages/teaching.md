@@ -7,5 +7,4 @@ author_profile: true
 
 ### Course Assistant
 
-- STAT 100 : Introduction to Statistics and Data Science
-             (2022 Fall, Instructor: Kelly McConville) 
+- STAT 100 : Introduction to Statistics and Data Science (2022 Fall, Instructor: Kelly McConville) 
